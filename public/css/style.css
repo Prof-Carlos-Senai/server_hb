@@ -1,0 +1,22 @@
+body{
+    background-color: cornflowerblue;
+    font-size: 1.25rem;
+    font-family: Tahoma;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color: white;
+}
+
+h1{
+    color: orange;
+}
+.format{
+    color: darkblue;
+    font-weight: bold;
+}
